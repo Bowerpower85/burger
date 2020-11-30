@@ -1,3 +1,3 @@
-insert into burgers (burger_name, devoured) values ("Cheeseburger");
-insert into burgers (burger_name, devoured) values ("Mushroomburger");
-insert into burgers (burger_name, devoured) values ("A1 peppercorn burger");
+insert into burgers (id, burger_name, devoured) values ("0", "Cheeseburger", "0");
+insert into burgers (id, burger_name, devoured) values ("3", "Mushroomburger", "0");
+insert into burgers (id, burger_name, devoured) values ("2", "A1 peppercorn burger", "0");
